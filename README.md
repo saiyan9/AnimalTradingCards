@@ -1,7 +1,7 @@
 # Animal Trading Cards Project #
 
 ## Description
-A simple web page with an animal fact card. In this project I will build a simple page using HTML and CSS. This was my first coding project.
+A simple web page with an animal fact card. In this project I will build a simple page using HTML and CSS. This was my first programming project.
 
 ## Languages
 * HTML
